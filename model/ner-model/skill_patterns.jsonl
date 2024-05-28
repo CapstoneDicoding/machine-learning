@@ -347,6 +347,8 @@
 {"label":"SKILL","pattern":[{"LOWER":"communication"},{"LOWER":"complexity"}]}
 {"label":"SKILL","pattern":[{"LOWER":"communication"},{"LOWER":"in"},{"LOWER":"small"},{"LOWER":"groups"}]}
 {"label":"SKILL","pattern":[{"LOWER":"communications"}]}
+{"label":"SKILL","pattern":[{"LOWER":"excellent"},{"LOWER":"communication"}]}
+{"label":"SKILL","pattern":[{"LOWER":"communication"}]}
 {"label":"SKILL","pattern":[{"LOWER":"communications"},{"LOWER":"protocol"}]}
 {"label":"SKILL","pattern":[{"LOWER":"communications"},{"LOWER":"sdk"}]}
 {"label":"SKILL","pattern":[{"LOWER":"communications"},{"LOWER":"system"}]}
@@ -1254,6 +1256,8 @@
 {"label":"SKILL","pattern":[{"LOWER":"mixture"},{"LOWER":"model"}]}
 {"label":"SKILL","pattern":[{"LOWER":"ml"},{"LOWER":"kit"}]}
 {"label":"SKILL","pattern":[{"LOWER":"mobile"}]}
+{"label":"SKILL","pattern":[{"LOWER":"mobile"},{"LOWER":"app"},{"LOWER":"development"}]}
+{"label":"SKILL","pattern":[{"LOWER":"software"},{"LOWER":"development"}]}
 {"label":"SKILL","pattern":[{"LOWER":"mobile"},{"LOWER":"agent"}]}
 {"label":"SKILL","pattern":[{"LOWER":"mobile"},{"LOWER":"analytics"}]}
 {"label":"SKILL","pattern":[{"LOWER":"mobile"},{"LOWER":"backend"}]}
@@ -1371,7 +1375,6 @@
 {"label":"SKILL","pattern":[{"LOWER":"node"},{"LOWER":"js"}]}
 {"label":"SKILL","pattern":[{"LOWER":"node.js"},{"LOWER":"process"},{"LOWER":"manager"}]}
 {"label":"SKILL","pattern":[{"LOWER":"node"},{"LOWER":"js process manager"}]}
-{"label":"SKILL","pattern":[{"LOWER":"node.js"}]}
 {"label":"SKILL","pattern":[{"LOWER":"node"},{"LOWER":"js"}]}
 {"label":"SKILL","pattern":[{"LOWER":"noise"},{"LOWER":"measurement"}]}
 {"label":"SKILL","pattern":[{"LOWER":"noise"},{"LOWER":"reduction"}]}
@@ -1539,7 +1542,6 @@
 {"label":"SKILL","pattern":[{"LOWER":"programming"},{"LOWER":"&"},{"LOWER":"code"},{"LOWER":"analytics"}]}
 {"label":"SKILL","pattern":[{"LOWER":"programming"},{"LOWER":"language"}]}
 {"label":"SKILL","pattern":[{"LOWER":"programming"},{"LOWER":"paradigm"}]}
-{"label":"SKILL","pattern":[{"LOWER":"project"},{"LOWER":"management"}]}
 {"label":"SKILL","pattern":[{"LOWER":"project"},{"LOWER":"management"}]}
 {"label":"SKILL","pattern":[{"LOWER":"prolog"}]}
 {"label":"SKILL","pattern":[{"LOWER":"prometheus"}]}
@@ -1732,7 +1734,7 @@
 {"label":"SKILL","pattern":[{"LOWER":"secure"},{"LOWER":"communication"}]}
 {"label":"SKILL","pattern":[{"LOWER":"secure"},{"LOWER":"multi-party"},{"LOWER":"computation"}]}
 {"label":"SKILL","pattern":[{"LOWER":"secure multi"},{"LOWER":"party computation"}]}
-{"label":"SKILL","pattern":[{"LOWER":"security"}]}
+{"label":"SKILL","pattern":[{"LOWER":"cyber"},{"LOWER":"security"}]}
 {"label":"SKILL","pattern":[{"LOWER":"seesaw"}]}
 {"label":"SKILL","pattern":[{"LOWER":"segment"}]}
 {"label":"SKILL","pattern":[{"LOWER":"segmentation"}]}
@@ -1814,7 +1816,6 @@
 {"label":"SKILL","pattern":[{"LOWER":"socket.io"}]}
 {"label":"SKILL","pattern":[{"LOWER":"socket"},{"LOWER":"io"}]}
 {"label":"SKILL","pattern":[{"LOWER":"softlayer"}]}
-{"label":"SKILL","pattern":[{"LOWER":"software"}]}
 {"label":"SKILL","pattern":[{"LOWER":"software"},{"LOWER":"agent"}]}
 {"label":"SKILL","pattern":[{"LOWER":"software-defined"},{"LOWER":"radio"}]}
 {"label":"SKILL","pattern":[{"LOWER":"software"},{"LOWER":"defined radio"}]}
@@ -1851,7 +1852,6 @@
 {"label":"SKILL","pattern":[{"LOWER":"spree"}]}
 {"label":"SKILL","pattern":[{"LOWER":"spring"}]}
 {"label":"SKILL","pattern":[{"LOWER":"spring-boot"}]}
-{"label":"SKILL","pattern":[{"LOWER":"spring"},{"LOWER":"boot"}]}
 {"label":"SKILL","pattern":[{"LOWER":"spring"},{"LOWER":"boot"}]}
 {"label":"SKILL","pattern":[{"LOWER":"spring"},{"LOWER":"cloud"}]}
 {"label":"SKILL","pattern":[{"TEXT":"SQL"}]}
@@ -1938,7 +1938,6 @@
 {"label":"SKILL","pattern":[{"LOWER":"template"},{"LOWER":"matching"}]}
 {"label":"SKILL","pattern":[{"LOWER":"templating"},{"LOWER":"languages"},{"LOWER":"&"},{"LOWER":"extensions"}]}
 {"label":"SKILL","pattern":[{"LOWER":"temporal"},{"LOWER":"database"}]}
-{"label":"SKILL","pattern":[{"LOWER":"tensorflow"}]}
 {"label":"SKILL","pattern":[{"LOWER":"tensorflow"}]}
 {"label":"SKILL","pattern":[{"LOWER":"terminal"}]}
 {"label":"SKILL","pattern":[{"LOWER":"terraform"}]}
@@ -2131,3 +2130,337 @@
 {"label":"SKILL","pattern":[{"LOWER":"html"}]}
 {"label":"SKILL","pattern":[{"LOWER":"css"}]}
 {"label":"SKILL","pattern":[{"LOWER":"sql"}]}
+{"label":"SKILL","pattern":[{"LOWER":"excel"}]}
+{"label":"SKILL","pattern":[{"LOWER":"software"},{"LOWER":"solution"},{"LOWER":"design"}]}
+{"label":"SKILL","pattern":[{"LOWER":"angularjs"}]}
+{"label":"SKILL","pattern":[{"LOWER":"splunk"}]}
+{"label":"SKILL","pattern":[{"LOWER":"network"},{"LOWER":"security"}]}
+{"label":"SKILL","pattern":[{"LOWER":"mcafee"},{"LOWER":"esm"}]}
+{"label":"SKILL","pattern":[{"LOWER":"arc"},{"LOWER":"sight"}]}
+{"label":"SKILL","pattern":[{"LOWER":"siem"}]}
+{"label":"SKILL","pattern":[{"LOWER":"database"},{"LOWER":"management"},{"LOWER":"system"}]}
+{"label":"SKILL","pattern":[{"LOWER":"frontend"}]}
+{"label":"SKILL","pattern":[{"LOWER":"api"},{"LOWER":"integration"}]}
+{"label":"SKILL","pattern":[{"LOWER":"frontend"}, {"LOWER":"application"}, {"LOWER":"development"}]}
+{"label":"SKILL","pattern":[{"LOWER":"performance"}, {"LOWER":"optimization"}]}
+{"label":"SKILL","pattern":[{"LOWER":"responsive"}, {"LOWER":"design"}]}
+{"label":"SKILL","pattern":[{"LOWER":"api"}, {"LOWER":"integration"}]}
+{"label":"SKILL","pattern":[{"LOWER":"english"}, {"LOWER":"oral"}]}
+{"label":"SKILL","pattern":[{"LOWER":"communication"}, {"LOWER":"skill"}]}
+{"label":"SKILL","pattern":[{"LOWER":"communication"}, {"LOWER":"skills"}]}
+{"label":"SKILL","pattern":[{"LOWER":"agile"}, {"LOWER":"waterfall"}]}
+{"label":"SKILL","pattern":[{"LOWER":"interpersonal"}, {"LOWER":"skills"}]}
+{"label":"SKILL","pattern":[{"LOWER":"gimp"}]}
+{"label":"SKILL","pattern":[{"LOWER":"project"}, {"LOWER":"management"}]}
+{"label":"SKILL","pattern":[{"LOWER":"server"}, {"LOWER":"language"}]}
+{"label":"SKILL","pattern":[{"LOWER":"backend"}, {"LOWER":"architecture"}]}
+{"label":"SKILL","pattern":[{"LOWER":"multi-databases"}]}
+{"label":"SKILL","pattern":[{"LOWER":"infrastructure"}]}
+{"label":"SKILL","pattern":[{"LOWER":"source"}, {"LOWER":"code"}, {"LOWER":"management"}]}
+{"label":"SKILL","pattern":[{"LOWER":"cloud"}, {"LOWER":"computing"}]}
+{"label":"SKILL","pattern":[{"LOWER":"data"}, {"LOWER":"science"}]}
+{"label":"SKILL","pattern":[{"LOWER":"data"}, {"LOWER":"analysis"}]}
+{"label":"SKILL","pattern":[{"LOWER":"data"}, {"LOWER":"visualization"}]}
+{"label":"SKILL","pattern":[{"LOWER":"quality"}, {"LOWER":"assurance"}]}
+{"label":"SKILL","pattern":[{"LOWER":"taxation"}, {"LOWER":"principles"}]}
+{"label":"SKILL","pattern":[{"LOWER":"b2b"}, {"LOWER":"selling"}]}
+{"label":"SKILL","pattern":[{"LOWER":"startup"}, {"LOWER":"environment"}, {"LOWER":"adaptation"}]}
+{"label":"SKILL","pattern":[{"LOWER":"software"}, {"LOWER":"quality"}, {"LOWER":"assurance"}]}
+{"label":"SKILL","pattern":[{"LOWER":"web"}, {"LOWER":"deployment"}]}
+{"label":"SKILL","pattern":[{"LOWER":"ui"}, {"LOWER":"automation"}]}
+{"label":"SKILL","pattern":[{"LOWER":"network"}, {"LOWER":"troubleshooting"}]}
+{"label":"SKILL","pattern":[{"LOWER":"microservices"}, {"LOWER":"architecture"}]}
+{"label":"SKILL","pattern":[{"LOWER":"governance"}]}
+{"label":"SKILL","pattern":[{"LOWER":"regulatory"}, {"LOWER":"requirements"}]}
+{"label":"SKILL","pattern":[{"LOWER":"information"}, {"LOWER":"security"}]}
+{"label":"SKILL","pattern":[{"LOWER":"cybersecurity"}]}
+{"label":"SKILL","pattern":[{"LOWER":"aws"}, {"LOWER":"security"}]}
+{"label":"SKILL","pattern":[{"LOWER":"security"}, {"LOWER":"audit"}]}
+{"label":"SKILL","pattern":[{"LOWER":"technical"}, {"LOWER":"sales"}]}
+{"label":"SKILL","pattern":[{"LOWER":"penetration"}, {"LOWER":"testing"}]}
+{"label":"SKILL","pattern":[{"LOWER":"communication"},{"LOWER":"multitasking"},{"LOWER":"organizational"},{"LOWER":"skills"}]}
+{"label":"SKILL","pattern":[{"LOWER":"customer"},{"LOWER":"service"}]}
+{"label":"SKILL","pattern":[{"LOWER":"android"},{"LOWER":"developer"}]}
+{"label":"SKILL","pattern":[{"LOWER":"rest"},{"LOWER":"apis"}]}
+{"label":"SKILL","pattern":[{"LOWER":"mvvm"}]}
+{"label":"SKILL","pattern":[{"LOWER":"clean"},{"LOWER":"architecture"}]}
+{"label":"SKILL","pattern":[{"LOWER":"algorithm"},{"LOWER":"data"},{"LOWER":"structure"}]}
+{"label":"SKILL","pattern":[{"LOWER":"objectoriented"},{"LOWER":"programming"}]}
+{"label":"SKILL","pattern":[{"LOWER":"solid"},{"LOWER":"principle"}]}
+{"label":"SKILL","pattern":[{"LOWER":"frontend"},{"LOWER":"development"}]}
+{"label":"SKILL","pattern":[{"LOWER":"web"},{"LOWER":"development"}]}
+{"label":"SKILL","pattern":[{"LOWER":"web"},{"LOWER":"design"}]}
+{"label":"SKILL","pattern":[{"LOWER":"seo"}]}
+{"label":"SKILL","pattern":[{"LOWER":"copywriting"}]}
+{"label":"SKILL","pattern":[{"LOWER":"content"},{"LOWER":"strategy"}]}
+{"label":"SKILL","pattern":[{"LOWER":"project"},{"LOWER":"management"}]}
+{"label":"SKILL","pattern":[{"LOWER":"technical"},{"LOWER":"support"}]}
+{"label":"SKILL","pattern":[{"LOWER":"analytical"},{"LOWER":"skills"}]}
+{"label":"SKILL","pattern":[{"LOWER":"ticketing"},{"LOWER":"system"}]}
+{"label":"SKILL","pattern":[{"LOWER":"problem-solving"}]}
+{"label":"SKILL","pattern":[{"LOWER":"multitasking"}]}
+{"label":"SKILL","pattern":[{"LOWER":"interpersonal"},{"LOWER":"skill"}]}
+{"label":"SKILL","pattern":[{"LOWER":"teamwork"}]}
+{"label":"SKILL","pattern":[{"LOWER":"technical"},{"LOWER":"writing"}]}
+{"label":"SKILL","pattern":[{"LOWER":"data"},{"LOWER":"architecture"}]}
+{"label":"SKILL","pattern":[{"LOWER":"business"},{"LOWER":"understanding"}]}
+{"label":"SKILL","pattern":[{"LOWER":"data"},{"LOWER":"engineer"}]}
+{"label":"SKILL","pattern":[{"LOWER":"business"},{"LOWER":"requirement"},{"LOWER":"document"}]}
+{"label":"SKILL","pattern":[{"LOWER":"functional"},{"LOWER":"specification"},{"LOWER":"document"}]}
+{"label":"SKILL","pattern":[{"LOWER":"technical"},{"LOWER":"specification"},{"LOWER":"document"}]}
+{"label":"SKILL","pattern":[{"LOWER":"data"},{"LOWER":"catalog"}]}
+{"label":"SKILL","pattern":[{"LOWER":"entity"},{"LOWER":"relationship"},{"LOWER":"diagram"}]}
+{"label":"SKILL","pattern":[{"LOWER":"algorithm"},{"LOWER":"development"}]}
+{"label":"SKILL","pattern":[{"LOWER":"r"}]}
+{"label":"SKILL","pattern":[{"LOWER":"hadoop"}]}
+{"label":"SKILL","pattern":[{"LOWER":"spark"}]}
+{"label":"SKILL","pattern":[{"LOWER":"google"},{"LOWER":"cloud"},{"LOWER":"platform"}]}
+{"label":"SKILL","pattern":[{"LOWER":"restful"},{"LOWER":"apis"}]}
+{"label":"SKILL","pattern":[{"LOWER":"microservices"},{"LOWER":"architecture"}]}
+{"label":"SKILL","pattern":[{"LOWER":"katalon"}]}
+{"label":"SKILL","pattern":[{"LOWER":"ci"},{"LOWER":"cd"}]}
+{"label":"SKILL","pattern":[{"LOWER":"uiux"}]}
+{"label":"SKILL","pattern":[{"LOWER":"golang"}]}
+{"label":"SKILL","pattern":[{"LOWER":"net"}]}
+{"label":"SKILL","pattern":[{"LOWER":"ids"},{"LOWER":"ips"}]}
+{"label":"SKILL","pattern":[{"LOWER":"firewall"}]}
+{"label":"SKILL","pattern":[{"LOWER":"edr"}]}
+{"label":"SKILL","pattern":[{"LOWER":"threat"},{"LOWER":"intelligence"}]}
+{"label":"SKILL","pattern":[{"LOWER":"soar"}]}
+{"label":"SKILL","pattern":[{"LOWER":"security"},{"LOWER":"domains"}]}
+{"label":"SKILL","pattern":[{"LOWER":"ceh"}]}
+{"label":"SKILL","pattern":[{"LOWER":"chfi"}]}
+{"label":"SKILL","pattern":[{"LOWER":"csa"}]}
+{"label":"SKILL","pattern":[{"LOWER":"comptia"},{"LOWER":"security+"}]}
+{"label":"SKILL","pattern":[{"LOWER":"prototyping"},{"LOWER":"figma"}]}
+{"label":"SKILL","pattern":[{"LOWER":"uml"}]}
+{"label":"SKILL","pattern":[{"LOWER":"microsoft"},{"LOWER":"office"}]}
+{"label":"SKILL","pattern":[{"LOWER":"banking"}]}
+{"label":"SKILL","pattern":[{"LOWER":"fintech"}]}
+{"label":"SKILL","pattern":[{"LOWER":"organizational"},{"LOWER":"skill"}]}
+{"label":"SKILL","pattern":[{"LOWER":"project"},{"LOWER":"management"},{"LOWER":"methodology"}]}
+{"label":"SKILL","pattern":[{"LOWER":"jira"}]}
+{"label":"SKILL","pattern":[{"LOWER":"miro"}]}
+{"label":"SKILL","pattern":[{"LOWER":"airtable"}]}
+{"label":"SKILL","pattern":[{"LOWER":"visio"}]}
+{"label":"SKILL","pattern":[{"LOWER":"helpdesk"}]}
+{"label":"SKILL","pattern":[{"LOWER":"shifting"},{"LOWER":"work"}]}
+{"label":"SKILL","pattern":[{"LOWER":"sql"},{"LOWER":"server"}]}
+{"label":"SKILL","pattern":[{"LOWER":"visual"},{"LOWER":"basic"}]}
+{"label":"SKILL","pattern":[{"LOWER":"crystal"},{"LOWER":"report"}]}
+{"label":"SKILL","pattern":[{"LOWER":"visual"},{"LOWER":"studio"}]}
+{"label":"SKILL","pattern":[{"LOWER":"training"}]}
+{"label":"SKILL","pattern":[{"LOWER":"outsystems"}]}
+{"label":"SKILL","pattern":[{"LOWER":"ui"},{"LOWER":"ux"},{"LOWER":"design"}]}
+{"label":"SKILL","pattern":[{"LOWER":"software"},{"LOWER":"application"},{"LOWER":"development"}]}
+{"label":"SKILL","pattern":[{"LOWER":"uipath"}]}
+{"label":"SKILL","pattern":[{"LOWER":"automation"}]}
+{"label":"SKILL","pattern":[{"LOWER":"json"}]}
+{"label":"SKILL","pattern":[{"LOWER":"vba"}]}
+{"label":"SKILL","pattern":[{"LOWER":"bot"},{"LOWER":"workflow"}]}
+{"label":"SKILL","pattern":[{"LOWER":"banking"},{"LOWER":"journal"}]}
+{"label":"SKILL","pattern":[{"LOWER":"teller"},{"LOWER":"dpk"}]}
+{"label":"SKILL","pattern":[{"LOWER":"iso"},{"LOWER":"8583"}]}
+{"label":"SKILL","pattern":[{"LOWER":"web"},{"LOWER":"service"}]}
+{"label":"SKILL","pattern":[{"LOWER":"digital"},{"LOWER":"payment"}]}
+{"label":"SKILL","pattern":[{"LOWER":"backbone.js"}]}
+{"label":"SKILL","pattern":[{"LOWER":"version"},{"LOWER":"control"}]}
+{"label":"SKILL","pattern":[{"LOWER":"framework"}]}
+{"label":"SKILL","pattern":[{"LOWER":"google"},{"LOWER":"algorithm"}]}
+{"label":"SKILL","pattern":[{"LOWER":"ahrefs"}]}
+{"label":"SKILL","pattern":[{"LOWER":"screaming"},{"LOWER":"frog"}]}
+{"label":"SKILL","pattern":[{"LOWER":"semrush"}]}
+{"label":"SKILL","pattern":[{"LOWER":"google"},{"LOWER":"search"},{"LOWER":"console"}]}
+{"label":"SKILL","pattern":[{"LOWER":"google"},{"LOWER":"analytics"}]}
+{"label":"SKILL","pattern":[{"LOWER":"gitflow"}]}
+{"label":"SKILL","pattern":[{"LOWER":"diverse"},{"LOWER":"educational"},{"LOWER":"background"}]}
+{"label":"SKILL","pattern":[{"LOWER":"user"},{"LOWER":"flow"}]}
+{"label":"SKILL","pattern":[{"LOWER":"use"},{"LOWER":"case"}]}
+{"label":"SKILL","pattern":[{"LOWER":"roadmap"}]}
+{"label":"SKILL","pattern":[{"LOWER":"bpmn"}]}
+{"label":"SKILL","pattern":[{"LOWER":"flowchart"}]}
+{"label":"SKILL","pattern":[{"LOWER":"cdm"}]}
+{"label":"SKILL","pattern":[{"LOWER":"pdm"}]}
+{"label":"SKILL","pattern":[{"LOWER":"node.js"},{"LOWER":"framework"}]}
+{"label":"SKILL","pattern":[{"LOWER":"nestjs"}]}
+{"label":"SKILL","pattern":[{"LOWER":"unit"},{"LOWER":"testing"}]}
+{"label":"SKILL","pattern":[{"LOWER":"jest"}]}
+{"label":"SKILL","pattern":[{"LOWER":"mocha"}]}
+{"label":"SKILL","pattern":[{"LOWER":"jasmine"}]}
+{"label":"SKILL","pattern":[{"LOWER":"dependency"},{"LOWER":"injection"}]}
+{"label":"SKILL","pattern":[{"LOWER":"inversion"},{"LOWER":"of"},{"LOWER":"control"}]}
+{"label":"SKILL","pattern":[{"LOWER":"docker"}]}
+{"label":"SKILL","pattern":[{"LOWER":"unity"}]}
+{"label":"SKILL","pattern":[{"LOWER":"ar"},{"LOWER":"foundation"}]}
+{"label":"SKILL","pattern":[{"LOWER":"vr"},{"LOWER":"application"}]}
+{"label":"SKILL","pattern":[{"LOWER":"multiplayer"},{"LOWER":"online"},{"LOWER":"game"},{"LOWER":"development"}]}
+{"label":"SKILL","pattern":[{"LOWER":"technical"},{"LOWER":"art"}]}
+{"label":"SKILL","pattern":[{"LOWER":"shader"},{"LOWER":"development"}]}
+{"label":"SKILL","pattern":[{"LOWER":"ux"},{"LOWER":"game"},{"LOWER":"design"}]}
+{"label":"SKILL","pattern":[{"LOWER":"cloud"},{"LOWER":"service"},{"LOWER":"provider"}]}
+{"label":"SKILL","pattern":[{"LOWER":"aws"}]}
+{"label":"SKILL","pattern":[{"LOWER":"gcp"}]}
+{"label":"SKILL","pattern":[{"LOWER":"kubernetes"}]}
+{"label":"SKILL","pattern":[{"LOWER":"infrastructure"},{"LOWER":"as"},{"LOWER":"code"}]}
+{"label":"SKILL","pattern":[{"LOWER":"terraform"}]}
+{"label":"SKILL","pattern":[{"LOWER":"pulumi"}]}
+{"label":"SKILL","pattern":[{"LOWER":"aws"},{"LOWER":"cdk"}]}
+{"label":"SKILL","pattern":[{"LOWER":"go"},{"LOWER":"programming"},{"LOWER":"language"}]}
+{"label":"SKILL","pattern":[{"LOWER":"linux"},{"LOWER":"administration"}]}
+{"label":"SKILL","pattern":[{"LOWER":"public"},{"LOWER":"key"},{"LOWER":"infrastructure"}]}
+{"label":"SKILL","pattern":[{"LOWER":"seaborn"}]}
+{"label":"SKILL","pattern":[{"LOWER":"bokeh"}]}
+{"label":"SKILL","pattern":[{"LOWER":"hive"}]}
+{"label":"SKILL","pattern":[{"LOWER":"presto"}]}
+{"label":"SKILL","pattern":[{"LOWER":"scrum"},{"LOWER":"management"}]}
+{"label":"SKILL","pattern":[{"LOWER":"stakeholder"},{"LOWER":"management"}]}
+{"label":"SKILL","pattern":[{"LOWER":"negotiation"},{"LOWER":"skills"}]}
+{"label":"SKILL","pattern":[{"LOWER":"wrike"}]}
+{"label":"SKILL","pattern":[{"LOWER":"trello"}]}
+{"label":"SKILL","pattern":[{"LOWER":"confluence"}]}
+{"label":"SKILL","pattern":[{"LOWER":"appium"}]}
+{"label":"SKILL","pattern":[{"LOWER":"playwright"}]}
+{"label":"SKILL","pattern":[{"LOWER":"business"},{"LOWER":"project"},{"LOWER":"management"}]}
+{"label":"SKILL","pattern":[{"LOWER":"dart"},{"LOWER":"programming"},{"LOWER":"language"}]}
+{"label":"SKILL","pattern":[{"LOWER":"flutter"},{"LOWER":"framework"}]}
+{"label":"SKILL","pattern":[{"LOWER":"app"},{"LOWER":"ui"},{"LOWER":"ux"},{"LOWER":"development"}]}
+{"label":"SKILL","pattern":[{"LOWER":"mobx"}]}
+{"label":"SKILL","pattern":[{"LOWER":"provider"}]}
+{"label":"SKILL","pattern":[{"LOWER":"riverpod"}]}
+{"label":"SKILL","pattern":[{"LOWER":"content"},{"LOWER":"creation"}]}
+{"label":"SKILL","pattern":[{"LOWER":"video"},{"LOWER":"editing"}]}
+{"label":"SKILL","pattern":[{"LOWER":"image"},{"LOWER":"editing"}]}
+{"label":"SKILL","pattern":[{"LOWER":"linux"},{"LOWER":"ubuntu"}]}
+{"label":"SKILL","pattern":[{"LOWER":"team"},{"LOWER":"collaborate"}]}
+{"label":"SKILL","pattern":[{"LOWER":"strong"},{"LOWER":"technical"},{"LOWER":"background"}]}
+{"label":"SKILL","pattern":[{"LOWER":"economics"}]}
+{"label":"SKILL","pattern":[{"LOWER":"diligent"}]}
+{"label":"SKILL","pattern":[{"LOWER":"work"},{"LOWER":"independently"}]}
+{"label":"SKILL","pattern":[{"LOWER":"mandarin"}]}
+{"label":"SKILL","pattern":[{"LOWER":"fluency"},{"LOWER":"mandarin"}]}
+{"label":"SKILL","pattern":[{"LOWER":"mandarin"},{"LOWER":"proficiency"}]}
+{"label":"SKILL","pattern":[{"LOWER":"productive"}]}
+{"label":"SKILL","pattern":[{"LOWER":"professional"}]}
+{"label":"SKILL","pattern":[{"LOWER":"growth"},{"LOWER":"mindset"}]}
+{"label":"SKILL","pattern":[{"LOWER":"nodejs"}]}
+{"label":"SKILL","pattern":[{"LOWER":"php"}]}
+{"label":"SKILL","pattern":[{"LOWER":"selfmotivated"}]}
+{"label":"SKILL","pattern":[{"LOWER":"adaptability"}]}
+{"label":"SKILL","pattern":[{"LOWER":"think"},{"LOWER":"critically"}]}
+{"label":"SKILL","pattern":[{"LOWER":"critical"},{"LOWER":"thinking"}]}
+{"label":"SKILL","pattern":[{"LOWER":"handson"},{"LOWER":"experience"}]}
+{"label":"SKILL","pattern":[{"LOWER":"work"},{"LOWER":"pressure"}]}
+{"label":"SKILL","pattern":[{"LOWER":"problemsolving"}]}
+{"label":"SKILL","pattern":[{"LOWER":"bugfixing"}]}
+{"label":"SKILL","pattern":[{"LOWER":"reactjs"}]}
+{"label":"SKILL","pattern":[{"LOWER":"strong"},{"LOWER":"knowledge"}]}
+{"label":"SKILL","pattern":[{"LOWER":"effective"},{"LOWER":"communication"}]}
+{"label":"SKILL","pattern":[{"LOWER":"work"},{"LOWER":"efficiently"}]}
+{"label":"SKILL","pattern":[{"LOWER":"public"},{"LOWER":"speaking"}]}
+{"label":"SKILL","pattern":[{"LOWER":"multidisciplinary"}]}
+{"label":"SKILL","pattern":[{"LOWER":"oop"}]}
+{"label":"SKILL","pattern":[{"LOWER":"java"}]}
+{"label":"SKILL","pattern":[{"LOWER":"vue"}]}
+{"label":"SKILL","pattern":[{"LOWER":"drawio"}]}
+{"label":"SKILL","pattern":[{"LOWER":"object"},{"LOWER":"oriented"},{"LOWER":"programming"}]}
+{"label":"SKILL","pattern":[{"LOWER":"scikitlearn"}]}
+
+
+{"label":"SKILL","pattern":[{"LOWER":"kerja"},{"LOWER":"sama"},{"LOWER":"tim"}]}
+{"label":"SKILL","pattern":[{"LOWER":"menganalisa"},{"LOWER":"data"}]}
+{"label":"SKILL","pattern":[{"LOWER":"pecah"},{"LOWER":"masalah"}]}
+{"label":"SKILL","pattern":[{"LOWER":"tepat"},{"LOWER":"waktu"}]}
+{"label":"SKILL","pattern":[{"LOWER":"kerja"},{"LOWER":"tim"}]}
+{"label":"SKILL","pattern":[{"LOWER":"manajemen"},{"LOWER":"waktu"}]}
+{"label":"SKILL","pattern":[{"LOWER":"tanggung"},{"LOWER":"jawab"}]}
+{"label":"SKILL","pattern":[{"LOWER":"teknik"},{"LOWER":"informatika"}]}
+{"label":"SKILL","pattern":[{"LOWER":"teknik"},{"LOWER":"komputer"}]}
+{"label":"SKILL","pattern":[{"LOWER":"ilmu"},{"LOWER":"komputer"}]}
+{"label":"SKILL","pattern":[{"LOWER":"teknologi"},{"LOWER":"informasi"}]}
+{"label":"SKILL","pattern":[{"LOWER":"komunikasi"},{"LOWER":"baik"}]}
+{"label":"SKILL","pattern":[{"LOWER":"koordinasi"},{"LOWER":"baik"}]}
+{"label":"SKILL","pattern":[{"LOWER":"keingintahuan"},{"LOWER":"besar"}]}
+{"label":"SKILL","pattern":[{"LOWER":"komunikasi"},{"LOWER":"multitasking"},{"LOWER":"keterampilan"},{"LOWER":"organisasi"}]}
+{"label":"SKILL","pattern":[{"LOWER":"pelayanan"},{"LOWER":"pelanggan"}]}
+{"label":"SKILL","pattern":[{"LOWER":"rekayasa"},{"LOWER":"perangkat"},{"LOWER":"lunak"}]}
+{"label":"SKILL","pattern":[{"LOWER":"pengembang"},{"LOWER":"android"}]}
+{"label":"SKILL","pattern":[{"LOWER":"rajin"}]}
+{"label":"SKILL","pattern":[{"LOWER":"kreatif"}]}
+{"label":"SKILL","pattern":[{"LOWER":"kolaboratif"}]}
+{"label":"SKILL","pattern":[{"LOWER":"analisis"}]}
+{"label":"SKILL","pattern":[{"LOWER":"teknologi"}]}
+{"label":"SKILL","pattern":[{"LOWER":"program"}]}
+{"label":"SKILL","pattern":[{"LOWER":"komunikasi"}]}
+{"label":"SKILL","pattern":[{"LOWER":"loyalitas"}]}
+{"label":"SKILL","pattern":[{"LOWER":"jujur"}]}
+{"label":"SKILL","pattern":[{"LOWER":"rest"},{"LOWER":"api"}]}
+{"label":"SKILL","pattern":[{"LOWER":"disiplin"}]}
+{"label":"SKILL","pattern":[{"LOWER":"mvvm"}]}
+{"label":"SKILL","pattern":[{"LOWER":"arsitektur"},{"LOWER":"bersih"}]}
+{"label":"SKILL","pattern":[{"LOWER":"algoritma"},{"LOWER":"struktur"},{"LOWER":"data"}]}
+{"label":"SKILL","pattern":[{"LOWER":"pemrograman"},{"LOWER":"berorientasi"},{"LOWER":"objek"}]}
+{"label":"SKILL","pattern":[{"LOWER":"prinsip"},{"LOWER":"solid"}]}
+{"label":"SKILL","pattern":[{"LOWER":"reactjs"}]}
+{"label":"SKILL","pattern":[{"LOWER":"loyal"}]}
+{"label":"SKILL","pattern":[{"LOWER":"tanggungjawab"}]}
+{"label":"SKILL","pattern":[{"LOWER":"integritas"}]}
+{"label":"SKILL","pattern":[{"LOWER":"pengembangan"},{"LOWER":"frontend"}]}
+{"label":"SKILL","pattern":[{"LOWER":"media"},{"LOWER":"sosial"}]}
+{"label":"SKILL","pattern":[{"LOWER":"desain"},{"LOWER":"web"}]}
+{"label":"SKILL","pattern":[{"LOWER":"komunikasi"}]}
+{"label":"SKILL","pattern":[{"LOWER":"copywriting"}]}
+{"label":"SKILL","pattern":[{"LOWER":"strategi"},{"LOWER":"konten"}]}
+{"label":"SKILL","pattern":[{"LOWER":"analisis"}]}
+{"label":"SKILL","pattern":[{"LOWER":"pelaporan"}]}
+{"label":"SKILL","pattern":[{"LOWER":"manajemen"},{"LOWER":"proyek"}]}
+{"label":"SKILL","pattern":[{"LOWER":"dukungan"},{"LOWER":"teknis"}]}
+{"label":"SKILL","pattern":[{"LOWER":"pemecahan"},{"LOWER":"masalah"}]}
+{"label":"SKILL","pattern":[{"LOWER":"multitasking"}]}
+{"label":"SKILL","pattern":[{"LOWER":"interpersonal"}]}
+{"label":"SKILL","pattern":[{"LOWER":"kolaborasi"}]}
+{"label":"SKILL","pattern":[{"LOWER":"kerja"},{"LOWER":"tim"}]}
+{"label":"SKILL","pattern":[{"LOWER":"penulisan"},{"LOWER":"teknis"}]}
+{"label":"SKILL","pattern":[{"LOWER":"diagram"},{"LOWER":"alir"},{"LOWER":"proses"}]}
+{"label":"SKILL","pattern":[{"LOWER":"uml"}]}
+{"label":"SKILL","pattern":[{"LOWER":"logika"},{"LOWER":"program"}]}
+{"label":"SKILL","pattern":[{"LOWER":"rancang"},{"LOWER":"entity"},{"LOWER":"relationship"},{"LOWER":"diagram"}]}
+{"label":"SKILL","pattern":[{"LOWER":"alat"},{"LOWER":"prototyping"},{"LOWER":"figma"}]}
+{"label":"SKILL","pattern":[{"LOWER":"operasi"},{"LOWER":"perangkat"},{"LOWER":"lunak"}]}
+{"label":"SKILL","pattern":[{"LOWER":"diagram"},{"LOWER":"erd"}]}
+{"label":"SKILL","pattern":[{"LOWER":"analisis"},{"LOWER":"risiko"}]}
+{"label":"SKILL","pattern":[{"LOWER":"komunikasi"},{"LOWER":"efektif"}]}
+{"label":"SKILL","pattern":[{"LOWER":"selesai"},{"LOWER":"masalah"}]}
+{"label":"SKILL","pattern":[{"LOWER":"uji"},{"LOWER":"aplikasi"}]}
+{"label":"SKILL","pattern":[{"LOWER":"automasi"},{"LOWER":"uji"}]}
+{"label":"SKILL","pattern":[{"LOWER":"pemrograman"},{"LOWER":"java"}]}
+{"label":"SKILL","pattern":[{"LOWER":"proyek"},{"LOWER":"perangkat"},{"LOWER":"lunak"}]}
+{"label":"SKILL","pattern":[{"LOWER":"manajemen"},{"LOWER":"proyek"}]}
+{"label":"SKILL","pattern":[{"LOWER":"paham"},{"LOWER":"proses"},{"LOWER":"bisnis"}]}
+{"label":"SKILL","pattern":[{"LOWER":"rekayasa"},{"LOWER":"perangkat"},{"LOWER":"lunak"}]}
+{"label":"SKILL","pattern":[{"LOWER":"html5"},{"LOWER":"css"}]}
+{"label":"SKILL","pattern":[{"LOWER":"framework"},{"LOWER":"laravel"},{"LOWER":"codeigniter"}]}
+{"label":"SKILL","pattern":[{"LOWER":"javascript"}]}
+{"label":"SKILL","pattern":[{"LOWER":"reactjs"}]}
+{"label":"SKILL","pattern":[{"LOWER":"redux"}]}
+{"label":"SKILL","pattern":[{"LOWER":"testing"},{"LOWER":"enzyme"},{"LOWER":"jest"}]}
+{"label":"SKILL","pattern":[{"LOWER":"sistem"},{"LOWER":"erp"}]}
+{"label":"SKILL","pattern":[{"LOWER":"proyek"},{"LOWER":"tender"}]}
+{"label":"SKILL","pattern":[{"LOWER":"komunikasi"},{"LOWER":"publik"}]}
+{"label":"SKILL","pattern":[{"LOWER":"teknik"},{"LOWER":"olah"},{"LOWER":"data"}]}
+{"label":"SKILL","pattern":[{"LOWER":"sistem"},{"LOWER":"informasi"}]}
+{"label":"SKILL","pattern":[{"LOWER":"tulis"},{"LOWER":"artikel"}]}
+{"label":"SKILL","pattern":[{"LOWER":"seo"}]}
+{"label":"SKILL","pattern":[{"LOWER":"wordpress"}]}
+{"label":"SKILL","pattern":[{"LOWER":"bahasa"},{"LOWER":"inggris"},{"LOWER":"lisan"},{"LOWER":"tulisan"}]}
+{"label":"SKILL","pattern":[{"LOWER":"magang"}]}
+{"label":"SKILL","pattern":[{"LOWER":"adaptasi"}]}
+{"label":"SKILL","pattern":[{"LOWER":"microsoft"},{"LOWER":"office"}]}
+{"label":"SKILL","pattern":[{"LOWER":"alat"},{"LOWER":"kembang"},{"LOWER":"aplikasi"}]}
+{"label":"SKILL","pattern":[{"LOWER":"aplikasi"},{"LOWER":"uji"}]}
+{"label":"SKILL","pattern":[{"LOWER":"cs"}]}
+{"label":"SKILL","pattern":[{"LOWER":"database"},{"LOWER":"mysql"}]}
+{"label":"SKILL","pattern":[{"LOWER":"bahasa"},{"LOWER":"pemrograman"}]}
+{"label":"SKILL","pattern":[{"LOWER":"teknologi"},{"LOWER":"komunikasi"},{"LOWER":"data"}]}
+{"label":"SKILL","pattern":[{"LOWER":"guna"},{"LOWER":"bisnis"}]}
+{"label":"SKILL","pattern":[{"LOWER":"draw.io"}]}
+{"label":"SKILL","pattern":[{"LOWER":"aplikasi"},{"LOWER":"software"},{"LOWER":"hardware"}]}
