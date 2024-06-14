@@ -8,7 +8,7 @@ Our team aims to enhance the HR recruitment process by considering various facto
 
 - **CV Summarization**: Extracted CV texts are processed and summarized using Groq LLM. The summaries are stored in PDF format for a concise overview, aiding in quick decision-making.
 
-- **Candidate Ranking**: Based on the calculated similarity scores from Doc2Vec and the BERT model, candidates are ranked. This ranking helps in identifying the top candidates who best meet the job requirements.
+- **Candidate Ranking**: Using cosine similarity scores base their embedding (using Sentence Transformer BERT), candidates are ranked. This ranking helps in identifying the top candidates who best meet the job requirements.
 
 - **Recommendation System**: Our system leverages the similarity scores and ranking data to recommend the best candidates for each job role. This ensures that employers receive a curated list of candidates with the highest compatibility, streamlining the hiring process.
 
@@ -24,12 +24,5 @@ By integrating advanced text extraction, processing, and machine learning models
 
 - Text Processing: The extracted text is then processed and refined. Groq, our base Large Language Model (LLM), is employed to retrieve and structure information from the CV text. The information is stored in JSON format for internal analysis and a summarized version is saved in PDF format for easier review.
 
-### Data Preprocessing
-
-- Optimization for Doc2Vec: The collected dataset is preprocessed to optimize it for the Doc2Vec model. This involves cleaning and standardizing the text data to ensure high-quality input for the model.
-
 ### Similarity Scoring
-
-- Doc2Vec and Cosine Similarity: Using the preprocessed data, the Doc2Vec model calculates the vector representations of both job requirements and candidate CVs. The cosine similarity metric is then applied to compute a similarity score, indicating how well each candidate's CV matches the job requirements.
-
-- BERT Model Scoring: Additionally, we utilize the SentenceTransformer model 'bert-base-uncased' to further evaluate and score candidates. This model enhances the accuracy of our scoring system by providing a deep understanding of the text semantics.
+- SentenceTransformer BERT and Cosine Similarity: Using the preprocessed data, the Sentence Tranformer BERT get embeddings of both job requirements and candidate CVs. The cosine similarity metric is then applied to compute a similarity score, indicating how well each candidate's CV matches the job requirements.
