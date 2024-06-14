@@ -6,11 +6,11 @@ Our recommendation system is designed to identify the best candidates and provid
 
 Our team aims to enhance the HR recruitment process by considering various factors, including:
 
-- **CV Summarization**: Extracted CV texts are processed and summarized using Groq LLM. The summaries are stored in PDF format for a concise overview, aiding in quick decision-making.
+- **[CV Summarization](https://github.com/CapstoneDicoding/machine-learning/blob/c5898dc6e7142e4bb5d0063cd7de2cca2d7b18ba/model/cv-summarize/cv_summarize_with_groq_demo_final.ipynb)**: Extracted CV texts are processed and summarized using Groq LLM. The summaries are stored in PDF format for a concise overview, aiding in quick decision-making.
 
-- **Candidate Ranking**: Using cosine similarity scores base their embedding (using Sentence Transformer BERT), candidates are ranked. This ranking helps in identifying the top candidates who best meet the job requirements.
+- **[Candidate Ranking](https://github.com/CapstoneDicoding/machine-learning/blob/c5898dc6e7142e4bb5d0063cd7de2cca2d7b18ba/model/candidate-ranking/cvs_scoring_ranking_system.ipynb)**: Using cosine similarity scores base their embedding (using Sentence Transformer BERT), candidates are ranked. This ranking helps in identifying the top candidates who best meet the job requirements.
 
-- **Recommendation System**: Our system leverages the similarity scores and ranking data to recommend the best candidates for each job role. This ensures that employers receive a curated list of candidates with the highest compatibility, streamlining the hiring process.
+- **[Recommendation System](https://github.com/CapstoneDicoding/machine-learning/blob/c5898dc6e7142e4bb5d0063cd7de2cca2d7b18ba/model/candidate-ranking/cvs_scoring_ranking_system.ipynb)**: Our system leverages the similarity scores and ranking data to recommend the best candidates for each job role. This ensures that employers receive a curated list of candidates with the highest compatibility, streamlining the hiring process.
 
 By integrating advanced text extraction, processing, and machine learning models, our recommendation system offers a robust solution for finding the best candidates and ranking them effectively. This approach not only enhances the accuracy of candidate-job matching but also significantly improves the efficiency of the recruitment process.
 
